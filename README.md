@@ -1,2 +1,0 @@
-# ForstRechnerWeb
-Website für ForstRechner
